@@ -1,0 +1,2 @@
+This is a newly created file and written some text
+This is a newly added line in existing file
