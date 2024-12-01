@@ -1,6 +1,6 @@
 #Find Duplicate letters in string
 
-a= "Prateek"
+a= "samsung"
 b=[]
 
 for char in a:

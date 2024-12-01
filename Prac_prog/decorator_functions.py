@@ -10,8 +10,6 @@ def my_decorator(func):
     return inner_function
 
 
-
-
 @my_decorator
 def outer_function():
     print("In Between Function Call: I am inside Outer Function")

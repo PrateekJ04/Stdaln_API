@@ -5,7 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="90b4b8a4-6737-4380-9409-d2cbd269fbaa" name="Changes" comment="OOPs">
+      <change afterPath="$PROJECT_DIR$/Prac_prog/common_items_in_list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prac_prog/convert_list_to_string.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prac_prog/difference_btn_lists.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prac_prog/freq_of_item.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prac_prog/max_in_list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prac_prog/permutations_in_list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prac_prog/removeduplicatesinlist.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prac_prog/secondmax_in_list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prac_prog/secondsmallestinlist.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prac_prog/sum_list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prac_prog/vowelsfind.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chk_sublist_under_list.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Stdaln_API.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Stdaln_API.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Prac_prog/decorator_functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/Prac_prog/decorator_functions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Prac_prog/duplicatechars.py" beforeDir="false" afterPath="$PROJECT_DIR$/Prac_prog/duplicatechars.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,14 +44,12 @@
     &quot;assignee&quot;: &quot;PrateekJ04&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">
-    <option name="selectedUrlAndAccountId">
-      <UrlAndAccount>
-        <option name="accountId" value="e0a4d898-ff74-4741-8b5c-bc3c75c55154" />
-        <option name="url" value="https://github.com/PrateekJ04/Py4XATB.git" />
-      </UrlAndAccount>
-    </option>
-  </component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/PrateekJ04/Stdaln_API.git&quot;,
+    &quot;accountId&quot;: &quot;498f3d99-f775-4810-9232-9eefe2d9a496&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
@@ -45,28 +59,53 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python tests.Python tests for test_get_booking.test_get_booking_valid_bookingid_p.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Practise.executor&quot;: &quot;Run&quot;,
-    &quot;Python.oops_concept_abstraction.executor&quot;: &quot;Run&quot;,
-    &quot;Python.oops_concept_encapsulation.executor&quot;: &quot;Run&quot;,
-    &quot;Python.oops_concept_polymorphism.executor&quot;: &quot;Run&quot;,
-    &quot;Python.oops_concepts.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Faltu/Python Language/python frameworks/TutorialsNinjaBehaveBDDHybridFrameworkWithPageObjectModel-main&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python tests.Python tests for test_get_booking.test_get_booking_valid_bookingid_p.executor": "Run",
+    "Python.Practise.executor": "Run",
+    "Python.calender.executor": "Run",
+    "Python.chk_sublist_under_list.executor": "Run",
+    "Python.common_items_in_list.executor": "Run",
+    "Python.convert_list_to_string.executor": "Run",
+    "Python.difference_btn_lists.executor": "Run",
+    "Python.duplicatechars.executor": "Run",
+    "Python.freq_of_item.executor": "Run",
+    "Python.max_in_list.executor": "Run",
+    "Python.oops_concept_abstraction.executor": "Run",
+    "Python.oops_concept_encapsulation.executor": "Run",
+    "Python.oops_concept_polymorphism.executor": "Run",
+    "Python.oops_concepts.executor": "Run",
+    "Python.permutations_in_list.executor": "Run",
+    "Python.removeduplicatesinlist.executor": "Run",
+    "Python.secondmax_in_list.executor": "Run",
+    "Python.secondsmallestinlist.executor": "Run",
+    "Python.sum_list.executor": "Run",
+    "Python.tupletest.executor": "Run",
+    "Python.vowelsfind.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/PRATEEK/PycharmProjects/Stdaln_API/Prac_prog",
+    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors"
   }
-}</component>
+}]]></component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="Stdaln_API" is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="Stdaln_API" />
+      </console-settings>
+    </option>
+  </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\PRATEEK\PycharmProjects\Stdaln_API\Prac_prog" />
       <recent name="C:\Users\prate\PycharmProjects\Stdaln_API\Prac_prog" />
       <recent name="C:\Users\prate\PycharmProjects\Stdaln_API" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Practise">
+  <component name="RunManager">
     <configuration name="Practise" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Stdaln_API" />
       <option name="ENV_FILES" value="" />
@@ -114,7 +153,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-c69650fc56ca-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.15619.17" />
+        <option value="bundled-python-sdk-fb887030ada0-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.21565.199" />
       </set>
     </attachedChunks>
   </component>
