@@ -5,23 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="90b4b8a4-6737-4380-9409-d2cbd269fbaa" name="Changes" comment="OOPs">
-      <change afterPath="$PROJECT_DIR$/Prac_prog/common_items_in_list.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Prac_prog/convert_list_to_string.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Prac_prog/difference_btn_lists.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Prac_prog/freq_of_item.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Prac_prog/max_in_list.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Prac_prog/permutations_in_list.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Prac_prog/removeduplicatesinlist.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Prac_prog/secondmax_in_list.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Prac_prog/secondsmallestinlist.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Prac_prog/sum_list.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Prac_prog/vowelsfind.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chk_sublist_under_list.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Stdaln_API.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Stdaln_API.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prac_prog/charexchange.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prac_prog/countCharnew.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prac_prog/htmlLayout.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prac_prog/longestword_inlistof_words.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prac_prog/remove_nth_char.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prac_prog/rev_word_in_str.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Prac_prog/decorator_functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/Prac_prog/decorator_functions.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Prac_prog/duplicatechars.py" beforeDir="false" afterPath="$PROJECT_DIR$/Prac_prog/duplicatechars.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Prac_prog/sum_list.py" beforeDir="false" afterPath="$PROJECT_DIR$/Prac_prog/sum_list.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Prac_prog/try_except_else_finally.py" beforeDir="false" afterPath="$PROJECT_DIR$/Prac_prog/try_except_else_finally.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,24 +54,36 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python tests.Python tests for test_get_booking.test_get_booking_valid_bookingid_p.executor": "Run",
+    "Python.2Darray1.executor": "Run",
     "Python.Practise.executor": "Run",
+    "Python.armstrong_num.executor": "Run",
+    "Python.avg_marks.executor": "Run",
     "Python.calender.executor": "Run",
+    "Python.charexchange.executor": "Run",
     "Python.chk_sublist_under_list.executor": "Run",
     "Python.common_items_in_list.executor": "Run",
     "Python.convert_list_to_string.executor": "Run",
+    "Python.countCharnew.executor": "Run",
     "Python.difference_btn_lists.executor": "Run",
     "Python.duplicatechars.executor": "Run",
     "Python.freq_of_item.executor": "Run",
+    "Python.generators.executor": "Run",
+    "Python.htmlLayout.executor": "Run",
+    "Python.longestword_inlistof_words.executor": "Run",
+    "Python.map.executor": "Run",
     "Python.max_in_list.executor": "Run",
     "Python.oops_concept_abstraction.executor": "Run",
     "Python.oops_concept_encapsulation.executor": "Run",
     "Python.oops_concept_polymorphism.executor": "Run",
     "Python.oops_concepts.executor": "Run",
     "Python.permutations_in_list.executor": "Run",
+    "Python.remove_nth_char.executor": "Run",
     "Python.removeduplicatesinlist.executor": "Run",
+    "Python.rev_word_in_str.executor": "Run",
     "Python.secondmax_in_list.executor": "Run",
     "Python.secondsmallestinlist.executor": "Run",
     "Python.sum_list.executor": "Run",
+    "Python.try_except_else_finally.executor": "Run",
     "Python.tupletest.executor": "Run",
     "Python.vowelsfind.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -198,7 +202,15 @@
       <option name="project" value="LOCAL" />
       <updated>1731760482118</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="OOPs">
+      <option name="closed" value="true" />
+      <created>1733038066925</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1733038066925</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
