@@ -11,7 +11,7 @@ def count_up_to(max):
         print("Cleanup code executed, generator is finished.")
 
 # Using the generator
-counter = count_up_to(10)
+counter = count_up_to(6)
 for num in counter:
     print(num)
 

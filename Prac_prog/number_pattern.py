@@ -16,7 +16,7 @@ for i in range(1,num+1):
             if j<=i:
                 print(i,end='')
     i+=1
-    print(end='\n')
+    print()
 
 """for i in range(10):
     print(str(i) * i)"""

@@ -18,5 +18,5 @@ def remove_duplicates(a):
     return x
 a = [10,20,30,20,10,50,60,40,80,50,40]
 result=remove_duplicates(a)
-result = set(result)
+#result = set(result)
 print(f"The unique in list are: {result}")

@@ -8,8 +8,9 @@ class One():
         return print(a + b + c)
 
 
-class Two():
+class Two(One):
     def sum_of_numbers(self, a=70, b=80, c=10, d=5):
+        super().sum_of_numbers(10,20,50)
         return print(a + b + c + d)
 
 

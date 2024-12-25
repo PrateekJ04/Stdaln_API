@@ -16,7 +16,7 @@ for i in range(5):
     print('')
 
 for i in range(5):
-    for k in range(5):
+    for k in range(4):
         if k>=i:
             print("*",end='')
     print('')
